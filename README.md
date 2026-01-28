@@ -1,3 +1,4 @@
 # Mediteran-Breeze
+Mediterranean Breeze é uma página de uma Praias paradisíacas em Ibiza ficticia.
 
-Para ver a pagina do Mediterranean Breeze : https://pedrohgpires.github.io/Mediteran-Breeze/
+Acesse o site: [Mediterranean Breeze](https://pedrohgpires.github.io/Mediteran-Breeze/)
